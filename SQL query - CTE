@@ -1,4 +1,4 @@
-
+# Find the average amount paid by the top 5 customers
 
 WITH customer_average_paid_cte (customer_id,address,city,country,total_amount_paid) AS
 (SELECT
