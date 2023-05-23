@@ -1,4 +1,4 @@
-## To find the top 10 countries for Rockbuster in terms of customer numbers
+# To find the top 10 countries for Rockbuster in terms of customer numbers
 
 SELECT 
 COUNT (A.customer_id) AS number_of_customers,
